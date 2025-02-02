@@ -6,7 +6,7 @@
 ## 💬 Ask me about ... JXC Coding Language
 ## 📫 How to reach me: ... no-reply@jakesmpmc.com
 ## 😄 Pronouns: ... He/Him
-## ⚡ Fun fact: ... Im part of the Drauger OS Project DraugerOS.org
+## ⚡ Fun fact: ... Im part of the Drauger OS Project https://www.draugeros.org/
 <!--
 **StetupYT/StetupYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
