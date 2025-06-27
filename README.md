@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm Stetup
+## 👯 I wish i could be a maintainer of [js.org](https://github.com/js-org)
 ## 🔭 I’m currently working on ... JXC Coding Language
 ## 🌱 I’m currently learning ... JXC
 ## 👯 I’m looking to collaborate on ... JXC Coding Language
